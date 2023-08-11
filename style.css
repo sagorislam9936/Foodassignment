@@ -26,7 +26,12 @@ right: 0;
     color: white;
 }
 
-
+.pichight{
+    border: 10px solid white;
+    padding-bottom: 15px;
+    border-radius: 200px;
+    width: 450px;
+}
 
 
 
