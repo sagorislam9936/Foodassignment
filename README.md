@@ -2,12 +2,12 @@
 
 ## Description
 
-Briefly introduce your project here. Explain what it does, its main features, and its purpose.
+We can buy fresh food and we can see price from here, this is great company
 
 # Features
-- Feature 1: Description of feature 1.
-- Feature 2: Description of feature 2.
-- Feature 3: Description of feature 3.
+- We can buy food from here
+- We can see product price here
+- We see healthy food from here
 
 ## Live Link
 
